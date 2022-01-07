@@ -1,6 +1,6 @@
 {
   "name": "json-rpc-on-a-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get JSON RPC on a stream",
   "main": "index.js",
   "dependencies": {
