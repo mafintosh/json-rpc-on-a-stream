@@ -1,0 +1,26 @@
+{
+  "name": "json-rpc-on-a-stream",
+  "version": "0.0.0",
+  "description": "Get JSON RPC on a stream",
+  "main": "index.js",
+  "dependencies": {
+    "newline-decoder": "^1.0.0"
+  },
+  "devDependencies": {
+    "brittle": "^2.0.3",
+    "standard": "^16.0.4"
+  },
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/json-rpc-on-a-stream.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/json-rpc-on-a-stream/issues"
+  },
+  "homepage": "https://github.com/mafintosh/json-rpc-on-a-stream"
+}
